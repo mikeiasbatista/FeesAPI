@@ -5,7 +5,7 @@ namespace Helper
 {
     public static class CalculationHelper
     {
-        public static double CalculateInterestRate(decimal juros, decimal vlrInicial, int tempo)
+        public static double CalculateCompoundInterest(decimal juros, decimal vlrInicial, int tempo)
         {
             var value = Convert.ToDouble(1.00M + juros);
             value = Math.Pow(value, tempo);

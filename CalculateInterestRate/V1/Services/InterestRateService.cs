@@ -13,7 +13,7 @@ namespace CalculateInterestRate.V1.Services
         {
             var juros = await GetInterestRate();
 
-            return CalculationHelper.CalculateInterestRate(juros, vlrInicial, tempo);
+            return CalculationHelper.CalculateCompoundInterest(juros, vlrInicial, tempo);
         }
 
         private async Task<decimal> GetInterestRate()

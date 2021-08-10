@@ -11,7 +11,7 @@ namespace CalculateInterestRate.Tests
             double expected = 105.1d;
 
             // Act
-            double actual = Helper.CalculationHelper.CalculateInterestRate(0.01m, 100m, 5);
+            double actual = Helper.CalculationHelper.CalculateCompoundInterest(0.01m, 100m, 5);
 
             // Assert
             Assert.Equal(expected, actual);
