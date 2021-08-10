@@ -1,0 +1,8 @@
+﻿{
+  "profiles": {
+    "InterestRate": {
+      "commandName": "Project",
+      "applicationUrl": "http://localhost:5000"
+    }
+  }
+}
