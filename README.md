@@ -1,2 +1,2 @@
-# InterestRate
+# FeesAPI
 A simple API
