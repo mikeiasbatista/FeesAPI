@@ -5,9 +5,6 @@ namespace CalculateInterestRate.V1.Services
 {
     public class CodeService
     {
-        internal Task<string> GetCodeUrl()
-        {
-            throw new NotImplementedException();
-        }
+        internal string GetCodeUrl() => @"https://github.com/mikeiasbatista/FeesAPI.git";
     }
 }

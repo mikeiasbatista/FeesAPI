@@ -28,7 +28,7 @@ namespace CalculateInterestRate.V1.Controllers
         [Route("showmethecode")]
         public async Task<string> ShowMeTheCode()
         {
-            return await this.codeService.GetCodeUrl();
+            return this.codeService.GetCodeUrl();
         }
     }
 }
