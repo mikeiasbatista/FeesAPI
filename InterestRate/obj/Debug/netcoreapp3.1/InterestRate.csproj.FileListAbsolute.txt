@@ -7,7 +7,6 @@ C:\Users\Mike\source\repos\FeesAPI\InterestRate\bin\Debug\netcoreapp3.1\Interest
 C:\Users\Mike\source\repos\FeesAPI\InterestRate\bin\Debug\netcoreapp3.1\InterestRate.runtimeconfig.dev.json
 C:\Users\Mike\source\repos\FeesAPI\InterestRate\bin\Debug\netcoreapp3.1\InterestRate.dll
 C:\Users\Mike\source\repos\FeesAPI\InterestRate\bin\Debug\netcoreapp3.1\InterestRate.pdb
-C:\Users\Mike\source\repos\FeesAPI\InterestRate\obj\Debug\netcoreapp3.1\InterestRate.csprojAssemblyReference.cache
 C:\Users\Mike\source\repos\FeesAPI\InterestRate\obj\Debug\netcoreapp3.1\InterestRate.AssemblyInfoInputs.cache
 C:\Users\Mike\source\repos\FeesAPI\InterestRate\obj\Debug\netcoreapp3.1\InterestRate.AssemblyInfo.cs
 C:\Users\Mike\source\repos\FeesAPI\InterestRate\obj\Debug\netcoreapp3.1\InterestRate.csproj.CoreCompileInputs.cache

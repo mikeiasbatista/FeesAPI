@@ -22,3 +22,7 @@ C:\Users\Mike\source\repos\FeesAPI\CalculateInterestRate\obj\Debug\netcoreapp3.1
 C:\Users\Mike\source\repos\FeesAPI\CalculateInterestRate\obj\Debug\netcoreapp3.1\CalculateInterestRate.dll
 C:\Users\Mike\source\repos\FeesAPI\CalculateInterestRate\obj\Debug\netcoreapp3.1\CalculateInterestRate.pdb
 C:\Users\Mike\source\repos\FeesAPI\CalculateInterestRate\obj\Debug\netcoreapp3.1\CalculateInterestRate.genruntimeconfig.cache
+C:\Users\Mike\Source\Repos\FeesAPI\CalculateInterestRate\bin\Debug\netcoreapp3.1\Extensions.dll
+C:\Users\Mike\Source\Repos\FeesAPI\CalculateInterestRate\bin\Debug\netcoreapp3.1\Extensions.pdb
+C:\Users\Mike\Source\Repos\FeesAPI\CalculateInterestRate\bin\Debug\netcoreapp3.1\Helper.dll
+C:\Users\Mike\Source\Repos\FeesAPI\CalculateInterestRate\bin\Debug\netcoreapp3.1\Helper.pdb

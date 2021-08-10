@@ -1,7 +1,7 @@
-﻿using System;
+﻿using Helper;
+using System;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Extensions;
 
 namespace CalculateInterestRate.V1.Services
 {
@@ -9,17 +9,11 @@ namespace CalculateInterestRate.V1.Services
     {
         private const string INTEREST_RATE_URL = "http://localhost:5000/v1/interestrate/taxaJuros";
 
-        internal async Task<double> CalculateInterestRate(decimal vlrInicial, int tempo)
+        public async Task<double> CalculateInterestRate(decimal vlrInicial, int tempo)
         {
             var juros = await GetInterestRate();
 
-            var value = Convert.ToDouble(1.00M + juros);
-            value = Math.Pow(value, tempo);
-
-            var result = Convert.ToDecimal(value) * vlrInicial;
-
-            // Truncado (sem arredondamento) em duas casas decimais
-            return Convert.ToDouble(result.TruncateWithPrecision(2));
+            return CalculationHelper.CalculateInterestRate(juros, vlrInicial, tempo);
         }
 
         private async Task<decimal> GetInterestRate()

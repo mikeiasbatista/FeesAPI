@@ -1,0 +1,12 @@
+C:\Users\Mike\Source\Repos\FeesAPI\FeesAPI\Helper\bin\Debug\netcoreapp3.1\Helper.deps.json
+C:\Users\Mike\Source\Repos\FeesAPI\FeesAPI\Helper\bin\Debug\netcoreapp3.1\Helper.dll
+C:\Users\Mike\Source\Repos\FeesAPI\FeesAPI\Helper\bin\Debug\netcoreapp3.1\Helper.pdb
+C:\Users\Mike\Source\Repos\FeesAPI\FeesAPI\Helper\bin\Debug\netcoreapp3.1\Extensions.dll
+C:\Users\Mike\Source\Repos\FeesAPI\FeesAPI\Helper\bin\Debug\netcoreapp3.1\Extensions.pdb
+C:\Users\Mike\Source\Repos\FeesAPI\FeesAPI\Helper\obj\Debug\netcoreapp3.1\Helper.csprojAssemblyReference.cache
+C:\Users\Mike\Source\Repos\FeesAPI\FeesAPI\Helper\obj\Debug\netcoreapp3.1\Helper.AssemblyInfoInputs.cache
+C:\Users\Mike\Source\Repos\FeesAPI\FeesAPI\Helper\obj\Debug\netcoreapp3.1\Helper.AssemblyInfo.cs
+C:\Users\Mike\Source\Repos\FeesAPI\FeesAPI\Helper\obj\Debug\netcoreapp3.1\Helper.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Source\Repos\FeesAPI\FeesAPI\Helper\obj\Debug\netcoreapp3.1\Helper.csproj.CopyComplete
+C:\Users\Mike\Source\Repos\FeesAPI\FeesAPI\Helper\obj\Debug\netcoreapp3.1\Helper.dll
+C:\Users\Mike\Source\Repos\FeesAPI\FeesAPI\Helper\obj\Debug\netcoreapp3.1\Helper.pdb

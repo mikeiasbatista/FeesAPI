@@ -1,0 +1,8 @@
+C:\Users\Mike\Source\Repos\FeesAPI\Util\bin\Debug\netcoreapp3.1\Extensions.deps.json
+C:\Users\Mike\Source\Repos\FeesAPI\Util\bin\Debug\netcoreapp3.1\Extensions.dll
+C:\Users\Mike\Source\Repos\FeesAPI\Util\bin\Debug\netcoreapp3.1\Extensions.pdb
+C:\Users\Mike\Source\Repos\FeesAPI\Util\obj\Debug\netcoreapp3.1\Extensions.AssemblyInfoInputs.cache
+C:\Users\Mike\Source\Repos\FeesAPI\Util\obj\Debug\netcoreapp3.1\Extensions.AssemblyInfo.cs
+C:\Users\Mike\Source\Repos\FeesAPI\Util\obj\Debug\netcoreapp3.1\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Source\Repos\FeesAPI\Util\obj\Debug\netcoreapp3.1\Extensions.dll
+C:\Users\Mike\Source\Repos\FeesAPI\Util\obj\Debug\netcoreapp3.1\Extensions.pdb

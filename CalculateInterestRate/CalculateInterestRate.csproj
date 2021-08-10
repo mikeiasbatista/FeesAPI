@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Util\Extensions.csproj" />
+    <ProjectReference Include="..\FeesAPI\Helper\Helper.csproj" />
   </ItemGroup>
 
 

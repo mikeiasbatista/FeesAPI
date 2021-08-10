@@ -1451,6 +1451,19 @@
         "runtime": {
           "bin/placeholder/Extensions.dll": {}
         }
+      },
+      "Helper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Extensions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Helper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Helper.dll": {}
+        }
       }
     }
   },
@@ -5287,11 +5300,16 @@
       "type": "project",
       "path": "../Util/Extensions.csproj",
       "msbuildProject": "../Util/Extensions.csproj"
+    },
+    "Helper/1.0.0": {
+      "type": "project",
+      "path": "../FeesAPI/Helper/Helper.csproj",
+      "msbuildProject": "../FeesAPI/Helper/Helper.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Extensions >= 1.0.0",
+      "Helper >= 1.0.0",
       "Microsoft.AspNet.WebApi.Client >= 5.2.7"
     ]
   },
@@ -5321,8 +5339,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Mike\\Source\\Repos\\FeesAPI\\Util\\Extensions.csproj": {
-              "projectPath": "C:\\Users\\Mike\\Source\\Repos\\FeesAPI\\Util\\Extensions.csproj"
+            "C:\\Users\\Mike\\Source\\Repos\\FeesAPI\\FeesAPI\\Helper\\Helper.csproj": {
+              "projectPath": "C:\\Users\\Mike\\Source\\Repos\\FeesAPI\\FeesAPI\\Helper\\Helper.csproj"
             }
           }
         }
