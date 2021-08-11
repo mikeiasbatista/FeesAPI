@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A9nt7/aZP96Npa3PauL81MMq8kXID19dRLKq+mtHHnv7CjJlX7gX2sBEY220+qzoDdg+JXNBNFPia6F71nTC8g==",
+  "dgSpecHash": "usJuPpYPjSM40+/KVcZ7T4EcQeD/WWG3BqFbjvJ+SzqdzSCh0NalcO6EM704S4RCGpmD2M3HkGcBLh2Mc2BNGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mike\\Source\\Repos\\FeesAPI\\FeesAPI\\CalculateInterestRate.Tests\\CalculateInterestRate.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Mike\\source\\repos\\FeesAPI\\FeesAPI\\CalculateInterestRate.Tests\\CalculateInterestRate.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mike\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\Mike\\.nuget\\packages\\microsoft.net.test.sdk\\15.0.0\\microsoft.net.test.sdk.15.0.0.nupkg.sha512",

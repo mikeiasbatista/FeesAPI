@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wUzj181eJB5ZRRhQy1F0GVG3JfWk05lwD/lRQ3Zd+yIRV5PljQJZnP01mXWgWpBhVcRoe/qWh/9HDZQNY8jtQA==",
+  "dgSpecHash": "t2mtNNqoWzwSwPxYANwR7bgDhSDcfR3bJf36wwiBk6HzJcBeYFOvGJGcZFpLOID1JcKuP6b1OiCbAhPs8drvCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mike\\Source\\Repos\\FeesAPI\\CalculateInterestRate\\CalculateInterestRate.csproj",
+  "projectFilePath": "C:\\Users\\Mike\\source\\repos\\FeesAPI\\CalculateInterestRate\\CalculateInterestRate.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mike\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\Mike\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

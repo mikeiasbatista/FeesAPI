@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mike\\Source\\Repos\\FeesAPI\\Util\\Extensions.csproj": {}
+    "C:\\Users\\Mike\\source\\repos\\FeesAPI\\Util\\Extensions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mike\\Source\\Repos\\FeesAPI\\Util\\Extensions.csproj": {
+    "C:\\Users\\Mike\\source\\repos\\FeesAPI\\Util\\Extensions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mike\\Source\\Repos\\FeesAPI\\Util\\Extensions.csproj",
+        "projectUniqueName": "C:\\Users\\Mike\\source\\repos\\FeesAPI\\Util\\Extensions.csproj",
         "projectName": "Extensions",
-        "projectPath": "C:\\Users\\Mike\\Source\\Repos\\FeesAPI\\Util\\Extensions.csproj",
+        "projectPath": "C:\\Users\\Mike\\source\\repos\\FeesAPI\\Util\\Extensions.csproj",
         "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mike\\Source\\Repos\\FeesAPI\\Util\\obj\\",
+        "outputPath": "C:\\Users\\Mike\\source\\repos\\FeesAPI\\Util\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mike\\AppData\\Roaming\\NuGet\\NuGet.Config",

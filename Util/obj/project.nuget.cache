@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RF08N2FnasCWra3Md9LTURy+2Ovz8Y+liHLT2XuqEYWU9tVbiDQNhTGIQ1IwpSjyLFieE9JGrpODd+E4Qmq05w==",
+  "dgSpecHash": "ZY7lQjk5Xr0lo3Zxxg3a11rZeWImnDStjXz/92HZWd+ylHZ1XfB9GFuinRXSV3Q0A0I1OP1E9uUbb3Y8nQjl0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mike\\Source\\Repos\\FeesAPI\\Util\\Extensions.csproj",
+  "projectFilePath": "C:\\Users\\Mike\\source\\repos\\FeesAPI\\Util\\Extensions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

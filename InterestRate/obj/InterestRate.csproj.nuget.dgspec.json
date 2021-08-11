@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mike\\Source\\Repos\\FeesAPI\\InterestRate\\InterestRate.csproj": {}
+    "C:\\Users\\Mike\\source\\repos\\FeesAPI\\InterestRate\\InterestRate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mike\\Source\\Repos\\FeesAPI\\InterestRate\\InterestRate.csproj": {
+    "C:\\Users\\Mike\\source\\repos\\FeesAPI\\InterestRate\\InterestRate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mike\\Source\\Repos\\FeesAPI\\InterestRate\\InterestRate.csproj",
+        "projectUniqueName": "C:\\Users\\Mike\\source\\repos\\FeesAPI\\InterestRate\\InterestRate.csproj",
         "projectName": "InterestRate",
-        "projectPath": "C:\\Users\\Mike\\Source\\Repos\\FeesAPI\\InterestRate\\InterestRate.csproj",
+        "projectPath": "C:\\Users\\Mike\\source\\repos\\FeesAPI\\InterestRate\\InterestRate.csproj",
         "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mike\\Source\\Repos\\FeesAPI\\InterestRate\\obj\\",
+        "outputPath": "C:\\Users\\Mike\\source\\repos\\FeesAPI\\InterestRate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mike\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -5319,11 +5319,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mike\\Source\\Repos\\FeesAPI\\CalculateInterestRate\\CalculateInterestRate.csproj",
+      "projectUniqueName": "C:\\Users\\Mike\\source\\repos\\FeesAPI\\CalculateInterestRate\\CalculateInterestRate.csproj",
       "projectName": "CalculateInterestRate",
-      "projectPath": "C:\\Users\\Mike\\Source\\Repos\\FeesAPI\\CalculateInterestRate\\CalculateInterestRate.csproj",
+      "projectPath": "C:\\Users\\Mike\\source\\repos\\FeesAPI\\CalculateInterestRate\\CalculateInterestRate.csproj",
       "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mike\\Source\\Repos\\FeesAPI\\CalculateInterestRate\\obj\\",
+      "outputPath": "C:\\Users\\Mike\\source\\repos\\FeesAPI\\CalculateInterestRate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mike\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5339,8 +5339,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Mike\\Source\\Repos\\FeesAPI\\FeesAPI\\Helper\\Helper.csproj": {
-              "projectPath": "C:\\Users\\Mike\\Source\\Repos\\FeesAPI\\FeesAPI\\Helper\\Helper.csproj"
+            "C:\\Users\\Mike\\source\\repos\\FeesAPI\\FeesAPI\\Helper\\Helper.csproj": {
+              "projectPath": "C:\\Users\\Mike\\source\\repos\\FeesAPI\\FeesAPI\\Helper\\Helper.csproj"
             }
           }
         }
